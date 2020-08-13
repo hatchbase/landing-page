@@ -20,12 +20,15 @@
       method="post"
       action="/thank-you"
       data-netlify="true"
+      data-netlify-honeypot="bot-field"
       name="early-access"
     >
+      <input name="bot-field" class="hidden" />
+      <input type="hidden" name="form-name" value="early-access" />
       <div class="flex items-center justify-center w-1/3 py-8 mx-auto">
         <input
-          type="text"
-          name="EMAIL"
+          type="email"
+          name="email"
           class="inline-flex items-center w-2/3 h-12 p-2 font-mono text-lg font-bold bg-white rounded-tl rounded-bl shadow-inner focus:outline-none focus:shadow-outline"
           placeholder="ENTER YOUR EMAIL"
         />
