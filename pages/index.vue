@@ -38,7 +38,7 @@
         <button
           name="subscribe"
           type="submit"
-          class="inline-flex items-center justify-center w-full h-12 p-2 px-4 font-mono text-lg font-bold text-teal-900 bg-teal-500 rounded md:rounded-none md:rounded-tl md:rounded-bl md:w-1/2 lg:w-auto hover:bg-teal-300 focus:outline-none focus:shadow-outline"
+          class="inline-flex items-center justify-center w-full h-12 p-2 px-4 font-mono text-lg font-bold text-teal-900 bg-teal-500 rounded md:rounded-none md:rounded-tr md:rounded-br md:w-1/2 lg:w-auto hover:bg-teal-300 focus:outline-none focus:shadow-outline"
         >
           GET EARLY ACCESS
         </button>
