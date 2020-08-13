@@ -1,6 +1,11 @@
-# hatchbase-lp
+<p align="center"><img src="assets/hatchbase-white.png" /></p>
+<p align="center">the platform for collaboration in architecture</p>
 
-## Build Setup
+## This repo
+
+This is the repository of our provisory landing page. It contains a simple page with a form, using Netlify Forms to save the submissions.
+
+## Build Setup (Nuxtjs)
 
 ```bash
 # install dependencies
